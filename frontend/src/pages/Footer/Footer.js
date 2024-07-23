@@ -67,10 +67,7 @@ const Footer = () => {
                     
                 </div>
                 
-                <div className="paragraphFooter"><p>Copyright ©2021 All rights reserved | This template is made with ♡ by Developers of ESTO</p>
-                <Link to = '' >Abdessamad bourhjoul</Link>
-                <Link to = ''  >Soufian zaam</Link>
-                <Link to = ''  >Souhail ouabou</Link>
+                <div className="paragraphFooter"><p>Copyright ©2021 All rights reserved</p>
                 </div>
 
 
